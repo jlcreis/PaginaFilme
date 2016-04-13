@@ -1,0 +1,90 @@
+body{
+  font-size: 20px;
+  background-color: darkgrey;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+div img{
+  height: 200px;
+  width: 300px;
+}
+
+div{
+  margin-left: 2%;
+}
+
+#descricao dt{
+  margin-top: 0.5em;
+}
+
+#descricao {
+  float: left;
+  margin-left: 1em;
+  margin-top: 2em;
+}
+
+dl.elenco{
+	width: 110px;
+	text-align: center;
+	padding: 10px;
+	float: left;
+    margin-top: 2em;
+}
+.elenco dt {
+  margin: 0px;
+  font-size: 18px;
+}
+.elenco dd {
+  margin: 0px;
+  font-size: 14px;
+}
+.elenco dt img {
+	border: 1px solid #000;
+	width: 110px;
+	height: 160px;
+	}
+
+figure {
+  width: 300px;
+  float: left;
+  margin: 0px;
+}
+
+figure img {
+  width: 300px;
+  margin-top: 2em;
+  
+}
+
+footer{
+  color: aliceblue;
+  align-self: center;
+}
+
+h1 {
+  text-align: center;
+  color: darkred;
+}
+
+h2 {
+  color: darkred;
+  clear: both;
+}
+
+iframe{
+  width: 300px;
+  height: 200px;
+  margin-left: 1%; 
+  border: 0;
+}
+
+p{
+  text-align: justify;
+}
+
+section{
+  border-bottom: 30px solid grey;
+}
+
+
